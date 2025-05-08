@@ -1,4 +1,5 @@
 Udacity Blog - Data Science and Business Analytics Insights 📊
+
 Welcome to my Udacity Blog repository! This repository contains my personal collection of Power BI reports, created as part of my mentorship and special initiatives at Udacity's School of Data Science and Business.
 
 Repository Structure
